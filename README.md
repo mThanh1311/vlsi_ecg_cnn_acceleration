@@ -1,1 +1,0 @@
-# vlsi_ecg_cnn_acceleration
